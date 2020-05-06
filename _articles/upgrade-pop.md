@@ -36,11 +36,11 @@ Once the updates are applied, a notification should appear at the top of your sc
 
 On the system's "About" page, you will notice a new feature has been added. The System76 upgrade package will display a message that Pop!\_OS 20.04 is available with a "Download" button.
 
-![Image Name](/images/upgrade-pop/about-download-button.png)
+```![Image Name](/images/upgrade-pop/about-download-button.png)
 
 Click the button and the download will begin.
 
-![Image Name](/images/upgrade-pop/about-download-complete.png)
+```![Image Name](/images/upgrade-pop/about-download-complete.png)
 
 Once the download is complete, you will receive a second notification saying the upgrade is ready.
 
